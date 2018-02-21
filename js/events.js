@@ -6,7 +6,7 @@ function getIt() {
 }
 
 function frameIT() {
-  $('.tasty').on('load', function(){
+  $('img').on('load', function(){
     
   })
 }
